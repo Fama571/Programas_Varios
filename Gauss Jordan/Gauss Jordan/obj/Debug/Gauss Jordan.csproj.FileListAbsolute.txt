@@ -1,0 +1,29 @@
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\bin\Debug\Gauss Jordan.exe.config
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\bin\Debug\Gauss Jordan.exe
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\bin\Debug\Gauss Jordan.pdb
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.csprojAssemblyReference.cache
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\MainWindow.g.cs
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\App.g.cs
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan_MarkupCompile.cache
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan_MarkupCompile.lref
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\MainWindow.baml
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.g.resources
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss_Jordan.Properties.Resources.resources
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.csproj.GenerateResource.cache
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.csproj.CoreCompileInputs.cache
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.exe
+c:\users\fernandoabdiel\source\repos\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.pdb
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\bin\Debug\Gauss Jordan.exe.config
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\bin\Debug\Gauss Jordan.exe
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\bin\Debug\Gauss Jordan.pdb
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.csprojAssemblyReference.cache
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\MainWindow.g.cs
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\App.g.cs
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan_MarkupCompile.cache
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan_MarkupCompile.lref
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\MainWindow.baml
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.g.resources
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss_Jordan.Properties.Resources.resources
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.csproj.GenerateResource.cache
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.exe
+C:\Users\fer_n\source\repos\Semestre 2\Gauss Jordan\Gauss Jordan\obj\Debug\Gauss Jordan.pdb
